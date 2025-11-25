@@ -1,0 +1,16 @@
+Overall Summary:
+Both files represent your professional profile as a highly experienced SDET / Technical Lead with 9+ years in automation testing, framework development, and CI/CD integrations. You have strong hands-on expertise in Selenium, Katalon Studio, Robot Framework, Playwright, API Testing, CI/CD pipelines, and multiple programming languages including Java, C#, JavaScript, TypeScript, and Python.
+
+Your experience spans Wipro, HCL Technologies, and Capgemini, where you contributed to building automation frameworks, performing API & web automation, supporting cross-functional teams, and mentoring new joiners. You also have several awards for innovation, leadership, and process excellence.
+
+Both documents highlight:
+
+Strong problem-solving and Agile experience
+
+Expertise in BDD frameworks (Cucumber, SpecFlow)
+
+Solid CI/CD knowledge (GitHub Actions, TeamCity, Octopus)
+
+Extensive experience in Web, API, and Mobile automation
+
+Multiple certifications including ISTQB, Katalon, Blockchain Testing, Copilot, Playwright, Azure DevOps
